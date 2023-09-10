@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on VicTube - a YouTube clone and my portfolio website.
 - 🌱 I’m currently learning ... TypeScript/NextJS/MachineLearning/AI/ and nonstop LC grind 😭.
+- 🤔 I’m looking for guidance with ... a roadmap for C# and .NET 
 - 📫 How to reach me: ... victerphiathep@gmail.com
 - ⚡ Fun fact: ... Python is named after the British comedy group Monty Python, not the snake.
 
