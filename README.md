@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the front end of VicTube - a YouTube clone, expanding my knowledge in the C# ecosystem, and prepping for new grad interviews
-- 🌱 I’m currently learning ... C#/TypeScript/.NET and nonstop LC grind 😭.
-- 🤔 I’m looking for guidance with ... a roadmap for C# and .NET Core.
+- 🔭 I’m currently working on the front end of VicTube - a YouTube clone, learning C#, attempting to switch from VSCode to NeoVim, and prepping for new grad interviews
+- 🌱 I’m currently learning ... C#/TypeScript/.NET/NeoVim and nonstop LC grind 😭.
+- 🤔 I’m looking for guidance with ... NeoVim configuration and .NET.
 - 📫 How to reach me: ... victerphiathep@gmail.com
 - ⚡ Fun fact: ... Python is named after the British comedy group Monty Python, not the snake.
 
