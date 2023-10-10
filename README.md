@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the front end of VicTube - a YouTube clone, learning C#, attempting to switch from VSCode to NeoVim, and prepping for new grad interviews
+- 🔭 I’m currently working on the VicTube - a YouTube clone, learning C# (reading RB Whitakers, C# Players Guide), attempting to learn Vim Motions with LazyVim, and prepping for new grad interviews.
 - 🌱 I’m currently learning ... C#/TypeScript/.NET/NeoVim/LC Grind.
 - 🤔 I’m looking for guidance with ... NeoVim configuration and .NET.
 - 📫 How to reach me: ... victerphiathep@gmail.com
