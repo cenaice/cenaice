@@ -12,10 +12,10 @@ I'm Victer Phiathep, a software enthusiast on a journey of continuous learning a
 ## 🌱 Currently Learning
 
 I'm actively expanding my knowledge in the following areas:
-- C#
-- TypeScript
-- .NET
+- C#, .NET
+- Full Stack Development
 - NeoVim
+- JavaScript
 - LeetCode Grind
 
 ## 🤔 Seeking Guidance With
