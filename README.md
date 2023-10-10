@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the VicTube - a YouTube clone, learning C# (reading RB Whitakers, C# Players Guide), attempting to learn Vim Motions with LazyVim, and prepping for new grad interviews.
+- 🔭 I’m currently working on:
+-                           1. Building a Job Portal website using the LinkedIn API that uses Fair and Explainable AI as an algorithm
+-                           2. Learning C# (reading RB Whitakers, C# Players Guide) alongside core OOP concepts/fundamentals.
+-                           3. Attempting to learn NeoVim and familiarizing myself with Vim Motions through LazyVim and reading documentation.
+-                           4. Seeking job opportunites and preparing for new grad 2024 interviews through LeetCoding.
+
 - 🌱 I’m currently learning ... C#/TypeScript/.NET/NeoVim/LC Grind.
 - 🤔 I’m looking for guidance with ... NeoVim configuration and .NET.
 - 📫 How to reach me: ... victerphiathep@gmail.com
