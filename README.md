@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Victer Phiathep, a software enthusiast on a journey of continuous learning and development. 
+I'm Victer Phiathep, a software enthusiast on a journey of continuous learning and development. I am currently attending Rutgers University and I am currently preparing to graduate.
 
 ## 📫 How to Reach Me
 
