@@ -16,7 +16,7 @@ Here are some of the skills I am working with and learning:
 | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![React](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) |
 | ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Google Cloud Platform](https://skillicons.dev/icons?i=gcp) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cenaice)](https://github.com/cenaice/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victerphiathep)](https://github.com/cenaice/github-readme-stats)
 
 <!--
 Here's what I'm currently up to:
