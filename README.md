@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Victer Phiathep, a software enthusiast on a journey of continuous learning and development. I am currently attending Rutgers University and I am currently preparing to graduate.
+I'm Victer Phiathep, a software enthusiast on a journey of continuous learning and development. I am currently a Rutgers University graduate (May 2024) interning at Ascent.
 
 ## 📫 How to Reach Me
 
